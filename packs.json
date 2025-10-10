@@ -1,0 +1,21 @@
+{
+  "planet_packs": [
+    {
+      "name": "Real Solar System",
+      "author": "SpaceFan123",
+      "version": "1.1",
+      "description": "Adds all real planets with accurate orbits.",
+      "size": "120 MB",
+      "download_url": "https://example.com/RealSolarSystem.zip"
+    },
+    {
+      "name": "Kepler System",
+      "author": "AstroDev",
+      "version": "2.0",
+      "description": "Adds exoplanets discovered by the Kepler telescope.",
+      "size": "80 MB",
+      "download_url": "https://example.com/KeplerSystem.zip"
+    }
+  ]
+}
+
