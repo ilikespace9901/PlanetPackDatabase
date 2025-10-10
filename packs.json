@@ -31,6 +31,14 @@
       "description": "A solar system set 5 billion years in the future NOTE: newer versions were larger than 25 MB, couldnt upload such",
       "size": "10.4 MB",
       "file": "Future Solar System V1.2.zip"
+    },
+    {
+      "name": "Klann",
+      "author": "Ludwig",
+      "version": "1.0",
+      "description": "Adds a highly detailed planet between the orbits of Venus and Earth",
+      "size": "2.32 MB",
+      "file": "Klann.zip"
     }
   ]
 }
