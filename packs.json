@@ -1,20 +1,20 @@
 {
   "planet_packs": [
     {
-      "name": "Real Solar System",
-      "author": "SpaceFan123",
-      "version": "1.1",
-      "description": "Adds all real planets with accurate orbits.",
-      "size": "120 MB",
-      "download_url": "https://example.com/RealSolarSystem.zip"
+      "name": "Arithos System",
+      "author": "ilikespace",
+      "version": "1.4",
+      "description": "Adds a custom trinary system",
+      "size": "2.13 MB",
+      "file": "Arithos System.zip"
     },
     {
-      "name": "Kepler System",
-      "author": "AstroDev",
-      "version": "2.0",
-      "description": "Adds exoplanets discovered by the Kepler telescope.",
-      "size": "80 MB",
-      "download_url": "https://example.com/KeplerSystem.zip"
+      "name": "New Frontiers",
+      "author": "ilikespace",
+      "version": "1.2",
+      "description": "Adds the rest the solar system and a few other stars",
+      "size": "3.00 MB",
+      "file": "New Frontiers.zip"
     }
   ]
 }
