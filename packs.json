@@ -55,6 +55,14 @@
       "description": "Adds a red dwarf system with some visuals",
       "size": "23.93 MB",
       "file": "Astronisis.zip"
+    },
+    {
+      "name": "Ludwig Solar System (Low End)",
+      "author": "Ludwig",
+      "version": "1.5",
+      "description": "Adds the outer planets and more (could only add this because the main version was over 100MB and this repo doesnt have LFS)",
+      "size": "63.8 MB",
+      "file": "Ludwig Solar System 1.5 Low-End.zip"
     }
   ]
 }
