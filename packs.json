@@ -47,6 +47,14 @@
       "description": "Changes our system to one with 5 planets",
       "size": "3.66 MB",
       "file": "Carvar system 1.0.zip"
+    },
+    {
+      "name": "Astronisis System",
+      "author": "Space Observer",
+      "version": "1.0",
+      "description": "Adds a red dwarf system with some visuals",
+      "size": "23.93 MB",
+      "file": "Astronisis.zip"
     }
   ]
 }
