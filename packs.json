@@ -6,6 +6,7 @@
       "version": "1.4",
       "description": "Adds a custom trinary system",
       "size": "2.13 MB"
+      "file": "Arithos System.zip"
     },
     {
       "name": "New Frontiers",
@@ -38,6 +39,14 @@
       "description": "Adds a highly detailed planet between the orbits of Venus and Earth",
       "size": "2.32 MB",
       "file": "Klann.zip"
+    },
+    {
+      "name": "Carvar Solar System",
+      "author": "SandaiElChileno",
+      "version": "1.0",
+      "description": "Changes our system to one with 5 planets",
+      "size": "3.66 MB",
+      "file": "Carvar system 1.0.zip"
     }
   ]
 }
