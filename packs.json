@@ -63,6 +63,14 @@
       "description": "Adds the outer planets and more (could only add this because the main version was over 100MB and this repo doesnt have LFS)",
       "size": "63.8 MB",
       "file": "Ludwig Solar System 1.5 Low-End.zip"
+    },
+    {
+      "name": "Better Stock System",
+      "author": "roshan",
+      "version": "1.1",
+      "description": "Improves the stock system with visuals",
+      "size": "8 MB",
+      "file": "Better Stock System.zip"
     }
   ]
 }
