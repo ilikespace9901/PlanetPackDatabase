@@ -79,6 +79,14 @@
       "description": "Adds 300+ Stars in the milky way",
       "size": "33 MB",
       "file": "Mini Milky Way 1.6.02.zip"
+    },
+    {
+      "name": "Ivraca System",
+      "author": "ilikespace",
+      "version": "1.0",
+      "description": "Replaces the solar system with a different yet similar one",
+      "size": "1.12 MB",
+      "file": "Ivraca System.zip"
     }
   ]
 }
