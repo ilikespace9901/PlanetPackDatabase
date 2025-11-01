@@ -95,6 +95,14 @@
       "description": "Adds Visuals to the solar system",
       "size": "60 MB",
       "file": "Visuals Beyønd (Original Beta v0.2.4).zip"
+    },
+    {
+      "name": "Ruvan System",
+      "author": "StarSubject",
+      "version": "1.0",
+      "description": "Adds a custom 'galaxy' with 3 stars",
+      "size": "19 MB",
+      "file": "Ruvan.zip"
     }
   ]
 }
