@@ -103,6 +103,14 @@
       "description": "Adds a custom 'galaxy' with 3 stars",
       "size": "19 MB",
       "file": "Ruvan.zip"
+    },
+    {
+      "name": "Go Beyond",
+      "author": "AstroM",
+      "version": "5.0",
+      "description": "Adds the 4 of our nearby galaxies with fictional systems",
+      "size": "87.7 MB",
+      "file": "Via Láctea 3.zip"
     }
   ]
 }
