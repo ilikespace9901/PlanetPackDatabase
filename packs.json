@@ -111,6 +111,14 @@
       "description": "Adds the 4 of our nearby galaxies with fictional systems",
       "size": "87.7 MB",
       "file": "Via Láctea 3.zip"
+    },
+    {
+      "name": "Sagralis Galaxy",
+      "author": "ilikespace",
+      "version": "1.0",
+      "description": "Adds a galaxy with 2 very finished systems",
+      "size": "2.93 MB",
+      "file": "Sagralis Galaxy.zip"
     }
   ]
 }
