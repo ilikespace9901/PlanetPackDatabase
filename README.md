@@ -4,3 +4,4 @@
 Its that easy
 
 roshan (RoshanGamer7791) is helping with this
+also being used by SFS Mod Installer
