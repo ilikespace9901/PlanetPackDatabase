@@ -2,5 +2,9 @@
 2. Download the file in the Releases
 3. Run code
 Its that easy
+  
+Being Used by SFS Mod Installer and Planet Pack Installer  
 
-roshan (RoshanGamer7791) is helping with this, Being Used by SFS Mod Installer
+## Contributors of the Planet Pack Database  
+* roshan (RoshanGamer7791)
+* ilikespace (ilikespace9901)
