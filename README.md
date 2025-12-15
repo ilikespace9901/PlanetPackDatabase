@@ -3,7 +3,7 @@
 3. Run code
 Its that easy
   
-Being Used by SFS Mod Installer and Planet Pack Installer  
+It has been moved to https://github.com/RoshanGamer7791/Mod-Database
 
 ## Contributors of the Planet Pack Database  
 * roshan (RoshanGamer7791)
