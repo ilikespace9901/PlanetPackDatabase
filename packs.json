@@ -11,9 +11,9 @@
     {
       "name": "New Frontiers",
       "author": "ilikespace",
-      "version": "1.2",
+      "version": "1.2.1",
       "description": "Adds the rest the solar system and a few other stars",
-      "size": "3.92 MB",
+      "size": "4.36 MB",
       "file": "New Frontiers.zip"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Future Solar System",
       "author": "roshan",
       "version": "1.4",
-      "description": "A solar system set 5 billion years in the future",
+      "description": "Adds a solar system set 5 billion years in the future",
       "size": "33.4 MB",
       "file": "Future Solar System.zip"
     },
@@ -119,6 +119,14 @@
       "description": "Adds a galaxy with 3 very finished systems",
       "size": "8.38 MB",
       "file": "Sagralis Galaxy.zip"
+    },
+    {
+      "name": "Poronim System",
+      "author": "ilikespace",
+      "version": "1.0",
+      "description": "Replaces the solar system with a binary A and L type system",
+      "size": "1.38 MB",
+      "file": "Poronim System.zip"
     }
   ]
 }
