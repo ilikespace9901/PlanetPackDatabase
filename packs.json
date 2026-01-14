@@ -143,6 +143,15 @@
       "size": "1.38 MB",
       "file": "Poronim System.zip",
       "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Space's Remade Solar System",
+      "author": "ilikespace",
+      "version": "1.0",
+      "description": "Adds some stuff to our system",
+      "size": "946 KB",
+      "file": "Space's Remade Solar System.zip",
+      "compat": "1.6.xx.x"
     }
   ]
 }
