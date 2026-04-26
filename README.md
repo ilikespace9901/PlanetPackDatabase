@@ -6,4 +6,4 @@ Used for PPI and SFSMI
 
 ## Contributors of the Planet Pack Database
 * ilikespace (ilikespace9901)
-* roshan (RoshanGamer7791)
+* Roshan (RoshanGamer7791)
