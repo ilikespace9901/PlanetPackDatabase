@@ -152,6 +152,15 @@
       "size": "946 KB",
       "file": "Space's Remade Solar System.zip",
       "compat": "1.6.xx.x"
+    },
+    {
+      "name": "Stellar Neighborhood",
+      "author": "Stardestroyer",
+      "version": "1.0",
+      "description": "Adds the star systems near the sun",
+      "size": "49.4 MB",
+      "file": null,
+      "compat": "1.6.xx.x"
     }
   ]
 }
